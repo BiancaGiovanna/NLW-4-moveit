@@ -1,7 +1,7 @@
 <h1 align="center">
   <img width="400px" src="./.github/images/logo.svg" />
   <br />
-  <a href="https://www.linkedin.com/in/alexandre-costa-401699199">
+  <a href="https://www.linkedin.com/in/bianca-giovanna/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
   </a>
   <a href="https://github.com/alexandredev3/moveit-nlw4/blob/master/LICENSE.txt">
@@ -18,7 +18,6 @@
   <a href="#memo-Licença">Licença</a>
 </p>
 
-<img src="./.github/images/nlw4-image-documentation.svg" />
 
 ## :page_facing_up: Descrição
 O Move.it é um app que usa a técnica de Pomodoro, esse app faz com que pessoas que passa muito tempo na frente do computador realizar exercícios físicos.
