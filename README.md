@@ -52,7 +52,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/
+$ git clone https://github.com/BiancaGiovanna/NLW-4-moveit.git
 
 # Vá para a pasta moveit-nlw4
 $ cd moveit-next
@@ -66,13 +66,6 @@ $ npm run dev
 # O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
 ```
 
-## :man: Autora
-
-<a href="https://github.com/BiancaGiovanna">
- <img src="https://avatars.githubusercontent.com/u/61204626?s=460&u=e807eb2c9fd925a42ae738de4e1f30726584ef45&v=4" width="80px;" alt=""/>
- <br />
- <sub><b>Bianca Giovanna</b></sub>
-</a>
 
 
 Entre em contato!🚀
