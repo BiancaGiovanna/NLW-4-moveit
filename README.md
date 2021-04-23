@@ -69,7 +69,7 @@ $ npm run dev
 
 Entre em contato!🚀
 
-<a href="linkedin.com/in/bianca-giovanna/">
+<a href="https://www.linkedin.com/in/bianca-giovanna/">
   <img alt="Linkedin" src="https://media-exp1.licdn.com/dms/image/C4E03AQHAEF5GTNTUMw/profile-displayphoto-shrink_200_200/0/1599240884500?e=1620259200&v=beta&t=Mefo7g8KacbcqAWuih5GBVw-IU5f56xUfnyRJjCUxUM">
 </a>
 
