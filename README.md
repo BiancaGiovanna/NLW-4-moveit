@@ -2,7 +2,7 @@
   <img width="400px" src="./.github/images/logo.svg" />
   <br />
   <a href="https://www.linkedin.com/in/bianca-giovanna/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-bianca-giovanna-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
   </a>
   <a href="https://github.com/alexandredev3/moveit-nlw4/blob/master/LICENSE.txt">
     <img alt="GitHub license" src="https://img.shields.io/github/license/alexandredev3/moveit-nlw4?logo=mint&style=flat-square">
